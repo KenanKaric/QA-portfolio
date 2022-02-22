@@ -33,6 +33,6 @@ Here you can download my [CV](https://drive.google.com/file/d/1avQyEWGXCwdgXtTge
 
 # EXAMPLES OF PRACTICAL WORK 
 
-Here you can [DOWNLOAD MY PRACTICAL WORK](https://drive.google.com/drive/folders/1EwgyNur4JfD4EWBXskGDwwhmUy9zunXd?usp=sharing) that was used for educational purposes and in the ITAcademy. There you will find API testing, JMeter testing, full documentation of a test pland and test book, as well as the scripts that were used in automation testing. 
+Here you can [DOWNLOAD MY PRACTICAL WORK](https://drive.google.com/drive/folders/1EwgyNur4JfD4EWBXskGDwwhmUy9zunXd?usp=sharing) that was used for educational purposes and in the ITAcademy. There you will find API testing, JMeter testing, full documentation of a test plan and test book, as well as the scripts that were used in automation testing. 
 
 In the near future there will be more fun stuff posted as my skills of using GitHub improves and when I find more interesting projects to work on (: 

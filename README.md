@@ -1,5 +1,12 @@
 # QA PORTFOLIO
-# ABOUT ME 
+
+[ABOUT ME](#ABOUT-ME)
+[CV](#CV)
+[SKILLS](#SKILLS)
+[TOOLS](#TOOLS)
+[EXAMPLES OF PRACTICAL WORK](#EXAMPLES-OF-PRACTICAL-WORK)
+
+## ABOUT ME 
 
 My name is Kenan Karić.  On this site I would like to share my all gained experience from personal studies and researches. In December I finished the course of QA and software tester at ITAcademy in Sarajevo. Regarding my formal education I have finished the BA of Journalism/Communicology at the Faculty of political sciences in Sarajevo. 
 
@@ -7,11 +14,11 @@ Currently I am working as a multimedia journalist at Oslobodjenje media group in
 
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. In the next sections of this portfolio I will present you with with the practical work I have done so far. 
 
-# CV 
+## CV 
 
 Here you can download my [CV](https://drive.google.com/file/d/1avQyEWGXCwdgXtTgeQJIZzJKsaR4a1vP/view?usp=sharing) as a PDF file from my Google Drive account. 
 
-# SKILLS
+## SKILLS
 
 - can perform manual testing of a web application
 - can write a test plan documentation with test book
@@ -23,7 +30,7 @@ Here you can download my [CV](https://drive.google.com/file/d/1avQyEWGXCwdgXtTge
 - writting basic python scripts and using Selenium 
 - brief Unit testing knowledge 
 
-# TOOLS
+## TOOLS
 
 - Apache JMeter - performance testing 
 - Postman - testing tool for RESTful API's
@@ -31,7 +38,7 @@ Here you can download my [CV](https://drive.google.com/file/d/1avQyEWGXCwdgXtTge
 - Trello
 - Microsoft Visual Studio Code - used for writing python scripts 
 
-# EXAMPLES OF PRACTICAL WORK 
+## EXAMPLES OF PRACTICAL WORK 
 
 Here you can [DOWNLOAD MY PRACTICAL WORK](https://drive.google.com/drive/folders/1EwgyNur4JfD4EWBXskGDwwhmUy9zunXd?usp=sharing) that was used for educational purposes and in the ITAcademy. There you will find API testing, JMeter testing, full documentation of a test plan and test book, as well as the scripts that were used in automation testing. 
 

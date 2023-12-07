@@ -16,7 +16,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 
 ## CV 
 
-Here you can download my [CV]((https://drive.google.com/file/d/1Rq5ZwZR_RixaaKqdEvA9ZpEewfQaP9jj/view?usp=sharing)) as a PDF file from my Google Drive account. 
+Here you can download my [CV](https://drive.google.com/file/d/1Rq5ZwZR_RixaaKqdEvA9ZpEewfQaP9jj/view?usp=sharing) as a PDF file from my Google Drive account. 
 
 ## SKILLS
 
